@@ -1,19 +1,19 @@
 ## Hi, I'm Pedro - aka [PalexDrod][website] 👋
 
-### I'm a Web Programmer and I currently live in Portugal.
+### I'm a Web Programmer. 🇵🇹
 
 <!-- [![Website](https://img.shields.io/website?label=palexdrod.com&style=for-the-badge&url=https%3A%2F%2Fpalexdrod.com)](https://palexdrod.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/palexdrod?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpalexdrod&screen_name=palexdrod) -->
 
 ### Some of my hobbies are:
-  - Programming
-  - Play video games
-  - Exercise
-  - Watch movies, series, animes
-  - Play guitar and others
+  - ⌨️ Programming
+  - 🎮 Play video games
+  - 🏋️ Exercise
+  - 🎥 Watch movies, series, animes
+  - 🎸 Play guitar and others
 
 ### Other facts
-  - Working on some projects, such:
+  - Working on some projects, such as:
     - [FG Companion](fg-companion): a fighting game combo tracker
     - [Drod Components](fg-companion): a vue library with several components used on my personal projects
   - Learning a Japanese
