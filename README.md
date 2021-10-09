@@ -35,4 +35,4 @@
 [linkedin]: https://linkedin.com/in/palexdrod
 
 [fg-companion]: https://combotracker-5478f.web.app/
-[drod-components]: https://combotracker-5478f.web.app/
+[drod-components]: https://www.npmjs.com/package/drod-components
