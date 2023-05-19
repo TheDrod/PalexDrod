@@ -29,7 +29,7 @@
 [<img align="left" alt="palexdrod | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[website]: https://gifted-bhaskara-e16294.netlify.app/
+[website]: https://palexdrod.netlify.app/
 
 [twitter]: https://twitter.com/palexdrod
 [youtube]: https://youtube.com/channel/UCvQWV9uVI-docGQ2adeIX2A
